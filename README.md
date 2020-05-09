@@ -1,2 +1,2 @@
 # tweet-popularity-predictor
-NLP project to predict tweet popularity and find out which features most contribute to an accurate prediction
+Project for DKE NLP 2020 course to predict tweet popularity and find out which features most contribute to an accurate prediction
